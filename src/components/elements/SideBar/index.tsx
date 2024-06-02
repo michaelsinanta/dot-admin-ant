@@ -6,6 +6,8 @@ import {
   TrophyOutlined,
   PaperClipOutlined,
   UserOutlined,
+  LoginOutlined,
+  UserAddOutlined,
 } from "@ant-design/icons";
 import { Button, Menu, theme } from "antd";
 import { Footer } from "antd/es/layout/layout";
@@ -38,6 +40,18 @@ const items = [
     icon: <PaperClipOutlined />,
     label: "Projects",
     path: "/projects",
+  },
+  {
+    key: "5",
+    icon: <LoginOutlined />,
+    label: "Login",
+    path: "/login",
+  },
+  {
+    key: "6",
+    icon: <UserAddOutlined />,
+    label: "Register",
+    path: "/register",
   },
 ];
 
