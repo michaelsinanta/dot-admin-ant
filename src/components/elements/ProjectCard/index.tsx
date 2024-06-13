@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import Link from "next/link"; // Added Link import
+import Link from "next/link";
 import { motion } from "framer-motion";
 import { fadeUpAnimation, techBadgeAnimation } from "./animation";
 import { Badge, Button } from "antd";
