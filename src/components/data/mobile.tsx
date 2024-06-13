@@ -7,9 +7,9 @@ export const MobDevProjects = [
     site: [
       [
         "Release",
-        "https://install.appcenter.ms/orgs/restore-the-shore/apps/restore-the-shore/distribution_groups/public",
+        "https://play.google.com/store/apps/details?id=id.ac.ui.talacare.a2&hl=en_US",
       ],
-      ["Code", "https://github.com/amrul-hzz/restore-the-shore-flutter"],
+      ["Repository", "https://github.com/orgs/Talacare/repositories"],
     ],
     tech: ["Dart", "Flutter"],
   },
@@ -23,7 +23,7 @@ export const MobDevProjects = [
         "Release",
         "https://install.appcenter.ms/orgs/restore-the-shore/apps/restore-the-shore/distribution_groups/public",
       ],
-      ["Code", "https://github.com/amrul-hzz/restore-the-shore-flutter"],
+      ["Repository", "https://github.com/amrul-hzz/restore-the-shore-flutter"],
     ],
     tech: ["Dart", "Flutter"],
   },

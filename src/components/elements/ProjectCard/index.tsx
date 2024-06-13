@@ -38,6 +38,7 @@ export const ProjectCard = ({ project }: ProjectCardProps) => {
           alt={`Project Thumbnail ${project.title}`}
           width={420}
           height={250}
+          loading="lazy"
           className="w-full h-full object-contain rounded-lg shadow-md bg-blue-200"
         />
       </motion.div>
