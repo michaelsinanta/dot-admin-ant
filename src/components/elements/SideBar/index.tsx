@@ -20,20 +20,20 @@ const items = [
     label: "About Me",
     path: "/",
   },
+  // {
+  //   key: "2",
+  //   icon: <CarryOutOutlined />,
+  //   label: "Experiences",
+  //   path: "/experiences",
+  // },
+  // {
+  //   key: "3",
+  //   icon: <TrophyOutlined />,
+  //   label: "Achievements",
+  //   path: "/achievements",
+  // },
   {
     key: "2",
-    icon: <CarryOutOutlined />,
-    label: "Experiences",
-    path: "/experiences",
-  },
-  {
-    key: "3",
-    icon: <TrophyOutlined />,
-    label: "Achievements",
-    path: "/achievements",
-  },
-  {
-    key: "4",
     icon: <PaperClipOutlined />,
     label: "Projects",
     path: "/projects",

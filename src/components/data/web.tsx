@@ -30,6 +30,17 @@ export const WebDevProjects = [
     tech: ["Spring Boot", "Next.js"],
   },
   {
+    title: "InternStreet",
+    description:
+      "● Clone of MSIB Kemdikbud 2024 with better UI and multiple sorting \n● User can view and bookmark detailed cards, and monitor saved items on the dashboard.",
+    image: "/assets/projects/web/6.internstreet.png",
+    site: [
+      ["Deployment", "https://internstreet.vercel.app/intern"],
+      ["Repository", "https://github.com/michaelsinanta/intern-street"],
+    ],
+    tech: ["Next.js"],
+  },
+  {
     title: "Restore The Shore (Web)",
     description:
       "● The Restore The Shore website contains the schedule of the trash cleanup events and forum where users can express themselves when participating in the event. This website has a function to foster a sense of community desire to contribute to preserving the environment and protecting the coast. \n● In a team of 4, developed a beach cleanup initiatives platform using Django for web and Flutter for mobile. \n● Created an automated APK build for mobile with Microsoft Visual Studio App Center and deployed the web in Railway.",
