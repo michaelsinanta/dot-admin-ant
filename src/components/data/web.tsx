@@ -32,7 +32,7 @@ export const WebDevProjects = [
   {
     title: "InternStreet",
     description:
-      "● Clone of MSIB Kemdikbud 2024 with better UI and multiple sorting \n● User can view and bookmark detailed cards, and monitor saved items on the dashboard.",
+      "● Clone of Kampus Merdeka MSIB with better UI and multiple sorting \n● User can view and bookmark detailed cards, and monitor saved items on the dashboard.",
     image: "/assets/projects/web/6.internstreet.png",
     site: [
       ["Deployment", "https://internstreet.vercel.app/intern"],
