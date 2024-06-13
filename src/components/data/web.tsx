@@ -10,7 +10,7 @@ export const WebDevProjects = [
   {
     title: "Game Center (Warnet)",
     description:
-      "In a team of 11, developed a game center app adhering to design principles as part of a Advanced Programming course project using Spring Boot and Next.js using agile methodologies. Authored technical documents, implemented functionalities in both backend and frontend, conducted testing as well as profiling analysis to identify performance bottlenecks.",
+      "● In a team of 11, develop a gaming center application, utilizing Spring Boot and Next.Js.\n● Implemented one of the microservices architecture for a unified RESTful API gateway to facilitate client interactions.\n● Utilized a cached thread pool for asynchronous order management.\n● Conducted thorough testing (100% coverage) and performance profiling using Grafana and Prometheus.",
     image: "/assets/projects/web/3.warnet.png",
     site: [["Demo Video", "https://clipchamp.com/watch/te9nrNcFMZp"]],
     tech: ["Spring Boot", "Next.js"],
@@ -18,7 +18,7 @@ export const WebDevProjects = [
   {
     title: "Restore The Shore (Web)",
     description:
-      "The Restore The Shore website contains the schedule of the trash cleanup events and forum where users can express themselves when participating in the event. This website has a function to foster a sense of community desire to contribute to preserving the environment and protecting the coast.",
+      "●The Restore The Shore website contains the schedule of the trash cleanup events and forum where users can express themselves when participating in the event. This website has a function to foster a sense of community desire to contribute to preserving the environment and protecting the coast. \n●In a team of 4, developed a beach cleanup initiatives platform using Django for web and Flutter for mobile. \n● Created an automated APK build for mobile with Microsoft Visual Studio App Center and deployed the web in Railway.",
     image: "/assets/projects/web/4.restore-the-shore-web.png",
     site: [
       ["Live", "https://restore-the-shore.up.railway.app/"],

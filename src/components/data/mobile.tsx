@@ -2,7 +2,7 @@ export const MobDevProjects = [
   {
     title: "TalaCare",
     description:
-      "Literally the Restore The Shore Website but in mobile. I learn how to use Flutter and fetching data from web service with http.",
+      "● Led a team of six to collaboratively engineer a mobile application for preschool children with Thalassemia, serving as the product owner responsible for designing requirements, distributing tasks, and conducting code reviews.\n● Developed an application with mini-games using Flutter and FlutterFlame, with Nest.Js for backend services, adhering to Test-Driven Development (TDD) and Scrum Methodology.",
     image: "/assets/projects/mobile/1.talacare.png",
     site: [
       [
@@ -16,7 +16,7 @@ export const MobDevProjects = [
   {
     title: "Restore The Shore (Mobile)",
     description:
-      "Literally the Restore The Shore Website but in mobile. I learn how to use Flutter and fetching data from web service with http.",
+      "●The Restore The Shore mobile contains the schedule of the trash cleanup events and forum where users can express themselves when participating in the event. This website has a function to foster a sense of community desire to contribute to preserving the environment and protecting the coast. \n●In a team of 4, developed a beach cleanup initiatives platform using Django for web and Flutter for mobile. \n● Created an automated APK build for mobile with Microsoft Visual Studio App Center and deployed the web in Railway.",
     image: "/assets/projects/mobile/2.restore-the-shore-mobile.png",
     site: [
       [

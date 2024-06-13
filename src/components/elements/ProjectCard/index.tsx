@@ -50,7 +50,7 @@ export const ProjectCard = ({ project }: ProjectCardProps) => {
           {project.title}
         </motion.h3>
         <motion.p
-          className="my-3 text-left text-sm"
+          className="my-3 text-left text-sm text-with-newlines"
           {...fadeUpAnimation}
           transition={{ duration: 0.2, delay: 0.3 }}
         >

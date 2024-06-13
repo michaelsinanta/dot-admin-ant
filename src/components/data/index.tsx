@@ -1,3 +1,4 @@
+import { DataAIProjects } from "./data-ai";
 import { MobDevProjects } from "./mobile";
 import { WebDevProjects } from "./web";
 
@@ -11,15 +12,7 @@ export const ProjectsData = [
     data: MobDevProjects,
   },
   {
-    type: "ai",
-    data: [],
-  },
-  {
-    type: "uiux",
-    data: [],
-  },
-  {
-    type: "ds",
-    data: [],
+    type: "data-ai",
+    data: DataAIProjects,
   },
 ];

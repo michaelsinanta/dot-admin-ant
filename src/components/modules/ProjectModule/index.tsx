@@ -29,10 +29,10 @@ export default function Project() {
           Mobile Development
         </Button>
         <Button
-          type={currentType === "ai" ? "primary" : "default"}
-          onClick={() => handleTypeChange("ai")}
+          type={currentType === "data-ai" ? "primary" : "default"}
+          onClick={() => handleTypeChange("data-ai")}
         >
-          Artificial Intelligence
+          Data / AI
         </Button>
       </div>
       <div>

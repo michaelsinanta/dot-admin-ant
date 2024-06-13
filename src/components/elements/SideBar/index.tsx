@@ -41,18 +41,6 @@ const items = [
     label: "Projects",
     path: "/projects",
   },
-  {
-    key: "5",
-    icon: <LoginOutlined />,
-    label: "Login",
-    path: "/login",
-  },
-  {
-    key: "6",
-    icon: <UserAddOutlined />,
-    label: "Register",
-    path: "/register",
-  },
 ];
 
 export const SideBar: React.FC<{ children: React.ReactNode }> = ({
